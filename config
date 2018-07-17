@@ -1,0 +1,10 @@
+[core]
+	bare = true
+	repositoryformatversion = 0
+	filemode = false
+	symlinks = false
+	ignorecase = true
+[remote "Remote"]
+	url = https://github.com/raul7alex/ProiectPracticaNetbeans.git
+	fetch = +refs/heads/*:refs/remotes/Remote/*
+	pushurl = https://github.com/raul7alex/ProiectPracticaNetbeans.git
